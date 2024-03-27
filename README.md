@@ -1,4 +1,3 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://abuzarmportifolio.netlify.app/)
 <h1 align="center">Hi 👋, I'm Abuzar Mulla</h1>
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/mohammad-abuzar-82704595/" target="_blank" rel="noreferrer">Abuzar</a> is a passionate DevOps Engineer from India, working on Cloud and DevOps for 2+ years now. Feel free to reach out for any Freelance Projects.</font></h3>
 
