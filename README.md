@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abuzar Mulla</h1>
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/mohammad-abuzar-82704595/" target="_blank" rel="noreferrer">Abuzar</a> is a passionate DevOps Engineer from India, working on Cloud and DevOps for 2+ years now. Feel free to reach out for any Freelance Projects.</font></h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="Coding" width="400" src="https://proeffico.com/wp-content/uploads/2023/10/devOps-cloud-native-2.gif">
 
 - 🌱 I’m currently Working on **AWS , CI/CD, K8s**
 
